@@ -14,19 +14,10 @@
 
 ---
 
-## 🚀 Featured Projects:
-1. **[Mini Rover](#)**: Open-source guide to build a low-cost rover and learn the fundamentals of robotics.
-2. **[Smart Gloves](#)**: Gesture recognition system using flex sensors and an MPU6050.
-3. **[3D Mouse](#)**: HID controller using an MPU6050 for 3D and VR applications.
-4. **[RFID Access Control](#)**: Real-time access control solution using ESP32 and RFID.
-5. **[Constitutional Bot](#)**: Telegram chatbot using NLP to answer questions about the Beninese constitution.
-
----
-
 ## 📚 Technologies & Skills:
 - **Embedded Systems**: ESP32, Arduino, Raspberry Pi
 - **Languages**: Python, C/C++, JavaScript
-- **AI & Vision**: OpenCV, YOLO, TensorFlow Lite, LLMs
+- **AI & Vision**: OpenCV, YOLO, TensorFlow Lite, LangChain, LLMs
 - **Web**: Flask, HTML/CSS, Bootstrap
 - **Tools**: Git, VS Code, Jupyter, PlatformIO
 - **IoT Integration**: MQTT, HTTP, WiFi, RFID Protocols
