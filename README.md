@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub!
 
-### I'm Espérance AYIWAHOUN, an Embedded Systems & IoT Developer passionate about Generative AI, Computer Vision and Cybersecurity 🔐.
+### I'm Espérance AYIWAHOUN, an AI/ML and Robotics Engineer in Training.
 
 ---
 
