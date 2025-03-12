@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub!
+# Welcome to my GitHub! 👋
 
 ### I'm Espérance AYIWAHOUN, an AI/ML and Robotics Engineer in Training.
 
