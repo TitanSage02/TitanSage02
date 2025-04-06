@@ -12,7 +12,7 @@
 - 🔧 Competing in **intelligent rover** and low-cost robotic solution challenges.
 - 💡 As a self-taught developer, I focus on **cybersecurity**, optimizing **embedded architectures**, and **PCB design**.
 
----
+---  
 
 ## 📚 Technologies & Skills:
 - **Embedded Systems**: ESP32, Arduino, Raspberry Pi
