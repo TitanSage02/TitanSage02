@@ -5,7 +5,7 @@
 ---
 
 ## 📌 About Me:
-- 🎓 **Embedded Systems & IoT Developer** | **Junior Technician in Computer Vision and NLP Applications**.
+- 🎓 **Embedded Systems & IoT Developer** | **Technician in Computer Vision and NLP Applications**.
 - 🔍 Enthusiast in **smart systems**, **AI applied to computer vision**, and **natural language processing**.
 - 🚀 Currently exploring how to integrate **generative AI** into robotics and embedded projects.
 - 🌐 **Volunteer mentor** promoting STEM education and democratizing robotics among young enthusiasts.
